@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: dubbo-provider
+Implementation-Version: 2.5.7
+Built-By: Administrator
+Specification-Vendor: Alibaba
+Specification-Title: dubbo-provider
+Implementation-Vendor-Id: com.alibaba
+Build-Jdk: 1.8.0_31
+Specification-Version: 2.5.7
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Alibaba
+
