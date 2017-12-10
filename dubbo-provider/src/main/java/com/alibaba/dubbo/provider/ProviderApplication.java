@@ -25,6 +25,9 @@ import org.springframework.transaction.PlatformTransactionManager;
 public class ProviderApplication{
 	    private static Logger logger = LoggerFactory.getLogger(ProviderApplication.class);
 	   
+	    
+	    
+	    
 	    //DataSource配置  
 	    @Bean  
 	    @ConfigurationProperties(prefix="spring.datasource")  
