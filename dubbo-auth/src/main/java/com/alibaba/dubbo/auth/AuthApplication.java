@@ -24,8 +24,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 @ImportResource(locations={"META-INF/spring/dubbo-auth.xml"}) 
 public class AuthApplication {
 	    private static Logger logger = LoggerFactory.getLogger(AuthApplication.class);
-	   
-	    //DataSource配置  
+	    //DataSource配置      
 	    @Bean  
 	    @ConfigurationProperties(prefix="spring.datasource")  
 	    public DataSource dataSource() {  
